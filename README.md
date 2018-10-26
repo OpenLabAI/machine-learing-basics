@@ -4,7 +4,7 @@
 
 # 진행 상황
 * ann_with_pytorch(완료)<br>
-* cnn_with_pytorch(진행)<br>
+* cnn_with_pytorch(세부 사항 수정 )<br>
 * advanced_cnn_with_pytorch(진행)<br>
 
 # 요구 사항
