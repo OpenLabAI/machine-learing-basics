@@ -27,4 +27,4 @@
 * [Empirical Evaluation of Rectified Activations in Convolutional Network](https://arxiv.org/abs/1505.00853)
 
 # 수정 및 배포
-출처를 남겨주시면 누구나 자유롭게 가져다 쓰셔도 됩니다. 잘못 서술한 내용이 있다면 ysjune1051@gmail.com으로 연락주시거나, [Issues](https://github.com/burgerphilia/machine-learing-basics/issues)에 남겨주시면 감사하겠습니다 :^)
+출처를 남겨주시면 누구나 자유롭게 가져다 쓰셔도 됩니다. 잘못 서술한 내용이 있다면 ysjune1051@gmail.com으로 연락주시거나, [Issues](https://github.com/OpenLabAI/machine-learing-basics/issues)에 남겨주시면 감사하겠습니다 :^)
